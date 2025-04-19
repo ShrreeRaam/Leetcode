@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShrreeRaam/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ShrreeRaam/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShrreeRaam/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ShrreeRaam/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ShrreeRaam/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

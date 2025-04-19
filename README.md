@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShrreeRaam/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -42,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShrreeRaam/Leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

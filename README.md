@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShrreeRaam/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShrreeRaam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/ShrreeRaam/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Linked List
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShrreeRaam/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShrreeRaam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
 ## Backtracking
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShrreeRaam/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ShrreeRaam/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

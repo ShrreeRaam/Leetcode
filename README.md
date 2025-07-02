@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShrreeRaam/Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/ShrreeRaam/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ShrreeRaam/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/ShrreeRaam/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShrreeRaam/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/ShrreeRaam/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ShrreeRaam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/ShrreeRaam/Leetcode/tree/master/0079-word-search) |
 ## Backtracking

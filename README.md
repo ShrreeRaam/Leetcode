@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShrreeRaam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2737-row-with-maximum-ones](https://github.com/ShrreeRaam/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3778-transform-array-by-parity](https://github.com/ShrreeRaam/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShrreeRaam/Leetcode/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/ShrreeRaam/Leetcode/tree/master/3778-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3778-transform-array-by-parity](https://github.com/ShrreeRaam/Leetcode/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->

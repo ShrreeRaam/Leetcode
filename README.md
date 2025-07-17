@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ShrreeRaam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ShrreeRaam/Leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2737-row-with-maximum-ones](https://github.com/ShrreeRaam/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrreeRaam/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/ShrreeRaam/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShrreeRaam/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ShrreeRaam/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShrreeRaam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrreeRaam/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ShrreeRaam/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/ShrreeRaam/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShrreeRaam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrreeRaam/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ShrreeRaam/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/ShrreeRaam/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Counting
 |  |

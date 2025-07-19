@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ShrreeRaam/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/ShrreeRaam/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShrreeRaam/Leetcode/tree/master/0070-climbing-stairs) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/ShrreeRaam/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
 | ------- |

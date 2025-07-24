@@ -145,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/ShrreeRaam/Leetcode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/ShrreeRaam/Leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

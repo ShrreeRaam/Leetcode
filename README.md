@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/ShrreeRaam/Leetcode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ShrreeRaam/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/ShrreeRaam/Leetcode/tree/master/1390-average-selling-price) |
+| [1625-group-sold-products-by-the-date](https://github.com/ShrreeRaam/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/ShrreeRaam/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShrreeRaam/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/ShrreeRaam/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
